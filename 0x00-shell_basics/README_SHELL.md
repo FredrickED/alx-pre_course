@@ -1,0 +1,3 @@
+﻿## THIS IS A TASK TO PARTAKE IN SHELL BASIC EXERCISE IN ALX-ACADEMY
+
+This would show my effort this far.
